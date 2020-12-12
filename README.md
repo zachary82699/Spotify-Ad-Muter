@@ -2,7 +2,7 @@
   This is a Python script that automatically mutes Spotify ads and unmutes when the ads are finished.
 
 # IMPORTANT #1 MAKE SURE YOU HAVE PYTHON3 INSTALLED ON YOUR SYSTEM!
-# IMPORTANT #2 ONLY WOKRS ON WINDOWS!
+# IMPORTANT #2 ONLY WORKS ON WINDOWS!
 
 # How To Install/Use?
   1. Download the repo as .zip
