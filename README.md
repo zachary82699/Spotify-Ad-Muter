@@ -8,9 +8,10 @@
   1. Download the repo as .zip
   2. Extract the .zip file
   3. Run the 'install requirements.bat'
-  4. Open a command prompt window, cd into the directory with the main.py
-  5. Enter 'python main.py', Hit Enter
-  6. Enjoy! :D
+  4. Open a command prompt window
+  5. Type 'cd <enter the directory with main.py>
+  6. Enter 'python main.py', Hit Enter
+  7. Enjoy! :D
  
 # Why Did I Make This
 I decided to create this script because I couldn't afford Spotify Premium and I hate blocking ads. Yes, some ads are shitty, but a majority of ads are fine and running advertisements help offset server costs.
