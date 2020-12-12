@@ -1,6 +1,17 @@
 # Spotify-Ad-Muter
   This is a Python script that automatically mutes Spotify ads and unmutes when the ads are finished.
 
+# How To Install/Use?
+
+# IMPORTANT! MAKE SURE YOU HAVE PYTHON3 INSTALLED ON YOUR SYSTEM!
+
+  1. Download the repo as .zip
+  2. Extract the .zip file
+  3. Run the 'install requirements.bat'
+  4. Open a command prompt window, cd into the directory with the main.py
+  5. Enter 'python main.py', Hit Enter
+  6. Enjoy! :D
+ 
 # Why Did I Make This
 I decided to create this script because I couldn't afford Spotify Premium and I hate blocking ads. Yes, some ads are shitty, but a majority of ads are fine and running advertisements help offset server costs.
 
