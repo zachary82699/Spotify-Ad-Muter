@@ -9,7 +9,7 @@
   2. Extract the .zip file
   3. Run the 'install requirements.bat'
   4. Open a command prompt window
-  5. Type 'cd <enter the directory with main.py>
+  5. CD into the directory with main.py
   6. Enter 'python main.py', Hit Enter
   7. Enjoy! :D
  
