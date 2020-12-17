@@ -1,8 +1,9 @@
 # Spotify-Ad-Muter
   This is a Python script that automatically mutes Spotify ads and unmutes when the ads are finished.
 
-# IMPORTANT #1 MAKE SURE YOU HAVE PYTHON3 INSTALLED ON YOUR SYSTEM!
-# IMPORTANT #2 ONLY WORKS ON WINDOWS!
+# Requirements
+  1. Python3
+  2. Windows (preferably Windows 10)
 
 # How To Install/Use?
   1. Download the repo as .zip
@@ -25,11 +26,19 @@ Recently, Spotify has been cracking down on ad blocking with their products, the
 # Privacy Enhancements
 If you are a privacy minded individual like me that hates personalized ads and data sharing for marketing purposes, you can disable both in Spotify Account settings. Also, Absolutely DO NOT connect your Spotify account with your Facebook account, they are know are to collect your data.
 
-    Disable 'Sharing Data For Marketing Purposes'
-    Click your username in the Spotify application > Account > Login to your account > Edit Profile > Uncheck 'Share my registration data with Spotify's content providers for marketing purposes.'
+# Disable 'Sharing Data For Marketing Purposes'
+    - Click your username in the Spotify application
+    - Account
+    - Login to your account
+    - Edit Profile
+    - Uncheck 'Share my registration data with Spotify's content providers for marketing purposes.'
 
-    Disable 'Personal data for tailored ads'
-    - Click your username in the Spotify application > Account > Login to your account > Privacy settings > Uncheck 'Process Facebook data' & Uncheck 'Process my personal data for tailored ads'
+# Disable 'Personal data for tailored ads'
+    - Click your username in the Spotify application
+    - Account
+    - Login to your account
+    - Privacy settings
+    - Uncheck 'Process Facebook data' & Uncheck 'Process my personal data for tailored ads'
 
 # CONTRIBUTE
 You can contribute to this project by adding any ad title that doesn`t already exist in ad_titles[]. Please follow the formatting of the variable. Thanks!
