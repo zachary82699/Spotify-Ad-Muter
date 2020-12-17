@@ -10,8 +10,9 @@
   2. Download the "Spotify Ad Muter Release.zip" file
   3. Extract the zip using 7zip
   4. Open a commmand prompt in the extracted folder
-  5. Type 'python main.py'
-  6. Hit enter and enjoy! :D
+  5. Double click the "install requirements.bat", let it run.
+  6. Type 'python main.py' in the command prompt and hit enter
+  7. Enjoy! :D
  
 # Why Did I Make This
 I decided to create this script because I couldn't afford Spotify Premium and I hate blocking ads. Yes, some ads are shitty, but a majority of ads are fine and running advertisements help offset server costs.
@@ -40,7 +41,7 @@ If you are a privacy minded individual like me that hates personalized ads and d
     - Uncheck 'Process Facebook data' & Uncheck 'Process my personal data for tailored ads'
 
 # CONTRIBUTE
-You can contribute to this project by adding any ad title that doesn`t already exist in ad_titles[]. Please follow the formatting of the variable. Thanks!
+You can contribute to this project by adding any ad title that don't already exist. Please make an issue with the problematic title and I will add it. Thanks!
 
 # SUPPORT ME
 If you did find this script useful, please consider buying me a coffee - https://www.buymeacoffee.com/Zach826
