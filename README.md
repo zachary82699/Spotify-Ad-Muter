@@ -44,5 +44,5 @@ If you are a privacy minded individual like me that hates personalized ads and d
 You can contribute to this project by adding any ad title that don't already exist. Please make an issue with the problematic title(s) and I will add it. Thanks!
 
 # SUPPORT ME
-<a href="https://www.buymeacoffee.com/Zach826" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/Zach826" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 If you did find this script useful, please consider buying me a coffee.
