@@ -6,13 +6,12 @@
   2. Windows (preferably Windows 10)
 
 # How To Install/Use?
-  1. Download the repo as .zip
-  2. Extract the .zip file
-  3. Run the 'install requirements.bat'
-  4. Open a command prompt window
-  5. CD into the directory with main.py
-  6. Enter 'python main.py', Hit Enter
-  7. Enjoy! :D
+  1. Go to 'Releases'
+  2. Download the "Spotify Ad Muter Release.zip" file
+  3. Extract the zip using 7zip
+  4. Open a commmand prompt in the extracted folder
+  5. Type 'python main.py'
+  6. Hit enter and enjoy! :D
  
 # Why Did I Make This
 I decided to create this script because I couldn't afford Spotify Premium and I hate blocking ads. Yes, some ads are shitty, but a majority of ads are fine and running advertisements help offset server costs.
