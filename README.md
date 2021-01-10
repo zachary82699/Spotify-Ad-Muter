@@ -41,6 +41,12 @@ If you are a privacy minded individual like me that hates personalized ads and d
     - Login to your account
     - Privacy settings
     - Uncheck 'Process Facebook data' & Uncheck 'Process my personal data for tailored ads'
-
+    
+## Enable "Black All Cookies" Setting
+    - Click your username in the Spotify application
+    - Settings
+    - Click 'Show Advanced Settings'
+    - Check the 'Privacy' checkbox
+    
 # CONTRIBUTE
 You can contribute to this project by adding any ad title that don't already exist. Please make an issue with the problematic title(s) and I will add it. Thanks!
