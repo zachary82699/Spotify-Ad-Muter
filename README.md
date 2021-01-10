@@ -42,7 +42,7 @@ If you are a privacy minded individual like me that hates personalized ads and d
     - Privacy settings
     - Uncheck 'Process Facebook data' & Uncheck 'Process my personal data for tailored ads'
     
-## Enable "Black All Cookies" Setting
+## Enable "Block All Cookies" Setting
     - Click your username in the Spotify application
     - Settings
     - Click 'Show Advanced Settings'
