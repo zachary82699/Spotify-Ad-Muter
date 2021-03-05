@@ -9,10 +9,10 @@
 
 # How To Install/Use?
   1. Go to 'Releases'
-  2. Download the "Spotify Ad Muter Release.zip" file
+  2. Download the latest version zip file 
   3. Extract the zip using 7zip
-  4. Open a commmand prompt in the extracted folder
-  5. Double click the "install requirements.bat", let it run.
+  4. Double click the "install requirements.bat", let it run.
+  5. Open a commmand prompt in the extracted folder
   6. Type 'python main.py' in the command prompt and hit enter
   7. Enjoy! :D
  
