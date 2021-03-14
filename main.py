@@ -81,7 +81,7 @@ def main():
             r'😈 Become a Blue Devil 😈',
             r'Sign then Drive is Back!',
             r'An Alternative To A College',
-            t'Nominate Your Company'
+            r'Nominate Your Company'
         ]
 
         ad_detected = False
