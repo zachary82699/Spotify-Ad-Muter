@@ -1,5 +1,3 @@
-<a href="https://www.buymeacoffee.com/Zach826" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee!&emoji=&slug=Zach826&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" target="_blank"></a>
-
 # Spotify-Ad-Muter
   This is a Python script that automatically mutes Spotify ads and unmutes when the ads are finished.
 
