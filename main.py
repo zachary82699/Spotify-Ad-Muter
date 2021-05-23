@@ -10,9 +10,7 @@ import win32gui
 from subprocess import Popen
 from pycaw.pycaw import AudioUtilities, ISimpleAudioVolume
 
-#############
-# FUNCTIONS #
-#############
+# mute process 
 def mute(process_name):
     sessions = AudioUtilities.GetAllSessions()
     for session in sessions:
@@ -21,7 +19,7 @@ def mute(process_name):
             volume.SetMute(1, None)
 
 
-# function for unmuting the process
+# unmute process
 def unmute(process_name):
     sessions = AudioUtilities.GetAllSessions()
     for session in sessions:
@@ -30,8 +28,8 @@ def unmute(process_name):
             volume.SetMute(0, None)
 
 
-# line clear if the lines are shorter than one another
-def clear_to_end():
+# Line clear
+def line_clear():
     sys.stdout.write('\033[2K\033[1G')
     return
 
@@ -63,9 +61,7 @@ def clear():
         Popen('clear', shell=True)
         
 
-#################
-# MAIN FUNCTION #
-#################
+# Main entry point of the program
 def main():
     
     clear()
@@ -75,13 +71,16 @@ def main():
     
     while True:
         ad_titles = [
-            r'Advertisement',
-            r'Spotify Free', # Some ads set this title.
+            # some ads set these titles
+            r'Spotify Free',
             r'Spotify',
+            # ads that needed manually added to list
+            r'Advertisement',
             r'😈 Become a Blue Devil 😈',
             r'Sign then Drive is Back!',
             r'An Alternative To A College',
-            r'Nominate Your Company'
+            r'Nominate Your Company',
+            r'We`re on a path to better healthcare.'
         ]
 
         ad_detected = False
@@ -93,7 +92,7 @@ def main():
             if find_window(title):
                 mute('Spotify.exe')
 
-                clear_to_end()
+                line_clear()
                 print(r'>> ads were detected or spotify is paused! <<',
                       end='\r', flush=True)
                 ad_detected = True
@@ -105,7 +104,7 @@ def main():
         else:
             unmute('Spotify.exe')
 
-            clear_to_end()
+            line_clear()
             print(r'>> no ads detected! <<', end='\r', flush=True)
 
             ad_detected = False
