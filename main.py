@@ -72,17 +72,18 @@ def main():
     while True:
         ad_titles = [
             # some ads set these titles
-            r'Spotify Free',
-            r'Spotify',
+            r"Spotify Free",
+            r"Spotify",
             # ads that needed manually added to list
-            r'Advertisement',
-            r'😈 Become a Blue Devil 😈',
-            r'Sign then Drive is Back!',
-            r'An Alternative To A College',
-            r'Nominate Your Company',
-            r'We`re on a path to better healthcare.'
+            r"Advertisement",
+            r"😈 Become a Blue Devil 😈",
+            r"Sign then Drive is Back!",
+            r"An Alternative To A College",
+            r"Nominate Your Company",
+            r"We`re on a path to better healthcare.",
+            r"You're welcome here.",
+            r"Online MBA, Nursing, Education",
         ]
-
         ad_detected = False
 
         for title in ad_titles:
