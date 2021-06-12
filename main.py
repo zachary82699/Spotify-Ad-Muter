@@ -83,6 +83,9 @@ def main():
             r"We`re on a path to better healthcare.",
             r"You're welcome here.",
             r"Online MBA, Nursing, Education",
+            r"Cedar Fair",
+            r"Become a Montessori teacher",
+            r"Fall 2021 Classes Enrolling Now"
         ]
         ad_detected = False
 
